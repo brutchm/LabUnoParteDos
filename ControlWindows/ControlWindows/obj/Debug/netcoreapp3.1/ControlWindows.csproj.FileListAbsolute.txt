@@ -1,0 +1,15 @@
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\bin\Debug\netcoreapp3.1\ControlWindows.exe
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\bin\Debug\netcoreapp3.1\ControlWindows.deps.json
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\bin\Debug\netcoreapp3.1\ControlWindows.runtimeconfig.json
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\bin\Debug\netcoreapp3.1\ControlWindows.runtimeconfig.dev.json
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\bin\Debug\netcoreapp3.1\ControlWindows.dll
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\bin\Debug\netcoreapp3.1\ControlWindows.pdb
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.csprojAssemblyReference.cache
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.Form1.resources
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.csproj.GenerateResource.cache
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.AssemblyInfoInputs.cache
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.AssemblyInfo.cs
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.csproj.CoreCompileInputs.cache
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.dll
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.pdb
+C:\Users\Brandon\source\repos\ControlWindows\ControlWindows\obj\Debug\netcoreapp3.1\ControlWindows.genruntimeconfig.cache
